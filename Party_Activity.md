@@ -8,17 +8,17 @@ Activity- 1 : Using PartyMgr:-
 ![alt text](images/-2.a.png)
 
 3.Change name of the person to Mark K Tailor
-![alt text](images/-3.a.png)
+![alt text](images/3.newa.png)
 
 4.Add email address to customer profile
-![alt text](images/1.a.png)
+![alt text](images/-3.a.png)
 
 5.Add Billing phone to customer profile
-![alt text](images/2.a.png)
+![alt text](images/3.a.png)
 
 
 6.Add Shipping phone to customer profile
-![alt text](images/3.a.png)
+![alt text](images/2.a.png)
 
 
 7.Add Shipping Address to customer profile
@@ -28,19 +28,19 @@ Activity- 1 : Using PartyMgr:-
 ![alt text](images/5.a.png)
 
 9.Make billing and shipping address same.
-![alt text](images/6.a.png)
+![alt text](images/billingSame.png)
 
 10.Change the purpose of billing address to General correspondence address
-![alt text](images/1.o.png)
+![alt text](images/correspondance.png)
 
 11.Delete(Expire) email address and create new
 ![alt text](images/1.o.png)
 
 12.Delete(Expire) billing address and add new
-![alt text](images/1.o.png)
+![alt text](images/newBilling.png)
 
 13.Delete(Expire) shipping address and add new
-![alt text](images/1.o.png)
+![alt text](images/newShipping.png)
 
 
 

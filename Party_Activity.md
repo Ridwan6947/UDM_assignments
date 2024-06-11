@@ -42,7 +42,7 @@ Activity- 1 : Using PartyMgr:-
 13.Delete(Expire) shipping address and add new
 ![alt text](images/newShipping.png)
 
-
+===============================================================================================================================
 
 Activity- 2 Using WebTools  
 

@@ -7,7 +7,7 @@ For Parent Product . Click on Create Product.
 ![alt text](images/1.png)
 Fig 1.1
 
-Step 2 - Create a new Product which is supposed to be a variant of the base product or parent product . Change the ProductID in order to avoid duplicate Key error.Set isVirtualProduct as N and isVariantProduct as Y , as this will be a Variant of the base product as seen in Fig1.2
+Step 2 - Create a new Product that is supposed to be a variant of the base product or parent product . Change the ProductID in order to avoid duplicate Key error.Set isVirtualProduct as N and isVariantProduct as Y , as this will be a Variant of the base product as seen in Fig1.2
 
 ![alt text](images/2.png)
 Fig1.2
